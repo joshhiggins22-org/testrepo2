@@ -1,12 +1,11 @@
 {
-    "stack_id": "my stack",
-    "app_id": "my app",
-    "chart":"generic"
-    "channel":"stable"
-    "image":"foo/bar"
-    "tag":"develop-12344321"
-    "properties": [
-        "app":"latest"
-        "deploy":"latest"
-    ]
+  "chart":{
+    "org":"jharshman",
+    "name":"generic",
+    "version":"0.0.2"
+  },
+  "properties":{
+    "app":"latest",
+    "deploy":"latest"
+  }
 }
