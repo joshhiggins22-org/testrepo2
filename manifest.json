@@ -1,0 +1,12 @@
+{
+    "stack_id": "my stack",
+    "app_id": "my app",
+    "chart":"generic"
+    "channel":"stable"
+    "image":"foo/bar"
+    "tag":"develop-12344321"
+    "properties": [
+        "app":"latest"
+        "deploy":"latest"
+    ]
+}
