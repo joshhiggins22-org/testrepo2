@@ -1,5 +1,5 @@
 # testrepo2
 hello
 Hope it works for demo
-yo
-some edits on readme
+
+PR to master test 7-23
